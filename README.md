@@ -104,13 +104,7 @@
 ## `> git --stats`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JJUNI-01-KOR&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
   <img height="165" src="https://streak-stats.demolab.com?user=JJUNI-01-KOR&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF" />
-</div>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJUNI-01-KOR&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-  <img height="165" src="https://github-profile-trophy.vercel.app/?username=JJUNI-01-KOR&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=4" />
 </div>
 
 <br />
