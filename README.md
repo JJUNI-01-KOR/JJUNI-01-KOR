@@ -18,6 +18,7 @@
 
 - 🛩️ **항공소프트웨어공학** 전공 — 시스템의 탄탄한 기반을 다짐
 - 🤖 **Physical AI 기반 자율주행 및 로봇 제어 로직** 연구 중
+- 🐢 **Nav2 · SLAM 기반 자율주행 로봇** 설계 및 구현 경험 (TurtleBot3 팀 프로젝트)
 - 🔁 가상과 현실을 잇는 기술을 탐구하며 매일 성장하는 것이 목표
 
 <br />
@@ -49,6 +50,9 @@
     <td align="center"><b>Middleware</b></td>
     <td>
       <img src="https://img.shields.io/badge/ROS2_Humble-22314E?style=flat-square&logo=ros&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nav2-22314E?style=flat-square&logo=ros&logoColor=white" />
+      <img src="https://img.shields.io/badge/SLAM_Toolbox-22314E?style=flat-square&logo=ros&logoColor=white" />
+      <img src="https://img.shields.io/badge/ArUco-22314E?style=flat-square&logo=opencv&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -99,13 +103,19 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>🐢 PATROL-1</h3>
+      <p><a href="https://github.com/JJUNI-01-KOR/turtlebot3_PJ_MegazoneCloud">TurtleBot3 기반 실내 자율주행 서비스 로봇</a><br/>
+      (Nav2 · SLAM · ArUco 도킹 · 스마트팩토리 설비 순찰, 팀 프로젝트)</p>
+      <img src="https://img.shields.io/badge/Status-In_Progress-1F6FEB?style=flat-square" />
+    </td>
+    <td width="33%" valign="top">
       <h3>🤖 ROS2 Bootcamp Journal</h3>
       <p>Megazone Cloud 부트캠프 학습 기록 및 미니 프로젝트 모음<br/>
       (ROS2 서비스/액션, TF2, RViz2, Gazebo, SLAM, Navigation2)</p>
       <img src="https://img.shields.io/badge/Status-In_Progress-1F6FEB?style=flat-square" />
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🧩 PyQt Mini Project</h3>
       <p>Python 기초 학습을 바탕으로 한 PyQt GUI 미니 프로젝트</p>
       <img src="https://img.shields.io/badge/Status-Completed-2EA043?style=flat-square" />
