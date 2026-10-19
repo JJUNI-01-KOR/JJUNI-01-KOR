@@ -125,9 +125,9 @@
     </td>
     <td width="33%" valign="top">
       <h3>🏠 Smart Model House</h3>
-      <p><b>Unity 스마트 모델하우스 컨피규레이터</b><br/>
+      <p><a href="https://github.com/JJUNI-01-KOR/com-modelhouse"><b>Unity 스마트 모델하우스 컨피규레이터</b></a><br/>
       3인칭 탐색 · 커피 로봇팔 IK(5단계 모션) · 중앙 이벤트 시스템(HomeEvents) · 에디터 메뉴 · 화재 대응 시나리오 (팀 프로젝트)</p>
-      <img src="https://img.shields.io/badge/Status-In_Progress-1F6FEB?style=flat-square" />
+      <img src="https://img.shields.io/badge/Status-Completed-2EA043?style=flat-square" />
     </td>
     <td width="33%" valign="top">
       <h3>🐢 PATROL-1</h3>
@@ -171,7 +171,8 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JJUNI-01-KOR&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&area=true&area_color=1F6FEB&hide_border=true&height=280" width="95%" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JJUNI-01-KOR&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJUNI-01-KOR&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" />
 </div>
 
 <br />
