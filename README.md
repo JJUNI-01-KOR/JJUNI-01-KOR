@@ -121,7 +121,7 @@
       <h3>🚓 LIMO Patrol Robot</h3>
       <p><b>WeGo LIMO 기반 스마트팩토리 순찰 로봇</b><br/>
       RTAB-Map 3D 매핑 · Nav2 순찰 · 딥러닝 차선 주행 + YOLO 표지판/신호등 인식 · TensorRT 추론 · 웹 관제 GUI (4인 팀)</p>
-      <img src="https://img.shields.io/badge/Status-In_Progress-1F6FEB?style=flat-square" />
+      <img src="https://img.shields.io/badge/Status-Completed-2EA043?style=flat-square" />
     </td>
     <td width="33%" valign="top">
       <h3>🏠 Smart Model House</h3>
