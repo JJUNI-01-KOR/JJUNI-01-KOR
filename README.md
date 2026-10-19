@@ -182,7 +182,6 @@
 <div align="center">
   <a href="mailto:joong0731@naver.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
   <a href="https://icejoong.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white" /></a>
-  <a href="https://humanoidsystem.kr"><img src="https://img.shields.io/badge/Portfolio-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://app.notion.com/p/39ca005c186b809a9434f73fe7b9ba80?source=copy_link"><img src="https://img.shields.io/badge/Notion-1F6FEB?style=for-the-badge&logo=notion&logoColor=white" /></a>
 </div>
 
