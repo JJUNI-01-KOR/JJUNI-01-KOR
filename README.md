@@ -119,7 +119,7 @@
   <tr>
     <td width="33%" valign="top">
       <h3>🚓 LIMO Patrol Robot</h3>
-      <p><b>WeGo LIMO 기반 스마트팩토리 순찰 로봇</b><br/>
+      <p><a href="https://github.com/unitydt-ros2-class2-2026/unity_main_project_02"><b>WeGo LIMO 기반 스마트팩토리 순찰 로봇</b></a><br/>
       RTAB-Map 3D 매핑 · Nav2 순찰 · 딥러닝 차선 주행 + YOLO 표지판/신호등 인식 · TensorRT 추론 · 웹 관제 GUI (4인 팀)</p>
       <img src="https://img.shields.io/badge/Status-Completed-2EA043?style=flat-square" />
     </td>
@@ -144,8 +144,9 @@
       <img src="https://img.shields.io/badge/Status-Ongoing-1F6FEB?style=flat-square" />
     </td>
     <td width="33%" valign="top">
-      <h3>🧩 PyQt Mini Project</h3>
-      <p>Python 기초 학습을 바탕으로 한 PyQt GUI 미니 프로젝트</p>
+      <h3>🧩 TurtleBot3 PyQt GUI</h3>
+      <p><a href="https://github.com/unitydt-ros2-class2-2026/mini-project-02/tree/main/COM_turtlebot3_pyqt_gui"><b>TurtleBot3 제어·모니터링 PyQt5 GUI</b></a><br/>
+      rclpy + PyQt5 — 조작 버튼·상태 표시·카메라 영상 (미니 프로젝트)</p>
       <img src="https://img.shields.io/badge/Status-Completed-2EA043?style=flat-square" />
     </td>
     <td width="33%" valign="top">
